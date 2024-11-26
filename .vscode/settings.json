@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    // "**/package.json": true,
+    // "**/node_modules": true,
+    // "**/README.md": true,
+    // "**/.git*": true,
+    // "**/vite*": true,
+    // "**/*config*": true,
+    // "**/.es*": true,
+    // "**/.*": true
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
